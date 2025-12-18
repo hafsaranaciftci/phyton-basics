@@ -1,9 +1,9 @@
-# phyton-basics
+# Phyton-Basics
 Bu repo, Python öğrenme sürecimde yaptığım temel alıştırmaları ve küçük örnekleri içermektedir.
-## içerik
+## İçerik
 - Değişkenler
 - Koşullar
 - Döngüler
 - Fonksiyonlar
-## amaç
+## Amaç
 Phyton programlama dilinin temellerini öğrenmek ve ileride veri bilimi alanında kullanmak.
